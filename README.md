@@ -67,8 +67,8 @@ O sistema utiliza dois bancos de dados distintos em MySQL:
 ### 🟦 AdmGeral (Administração Geral)
 
 <p align="center">
-  <img src="./imagens/admin1.png" height="180" />
-  <img src="./imagens/admin2.png" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0002.jpg height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0003.jpg height="180" />
   <img src="./imagens/admin3.png" height="180" />
   <br>
   <img src="./imagens/admin4.png" height="180" />
