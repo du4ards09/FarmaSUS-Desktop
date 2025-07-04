@@ -95,15 +95,34 @@ O sistema utiliza dois bancos de dados distintos em MySQL:
 ### 🟩 AdmFarmácia (Administração das Farmácias)
 
 <p align="center">
-  <img src="./imagens/admin8.png" height="180" />
-  <img src="./imagens/admin9.png" height="180" />
-  <img src="./imagens/admin10.png" height="180" />
-  <br>
-  <img src="./imagens/admin11.png" height="180" />
-  <img src="./imagens/admin12.png" height="180" />
-  <img src="./imagens/admin13.png" height="180" />
-  <br>
-  <img src="./imagens/admin14.png" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0078.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0060.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0059.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0061.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0063.jpg" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  <img src="" height="180" />
+  
 </p>
 
 ## 📬 Contato
