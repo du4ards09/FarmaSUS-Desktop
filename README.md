@@ -1,4 +1,4 @@
-# 🖥️ Projeto TCC - Site Administrativo Geral e Site Administrativo das UBS
+# 🖥️ FarmaSUS - Site Administrativo Geral e Site Administrativo das Farmácias
 
 Este repositório contém o código do **site administrativo** do projeto TCC (FarmaSUS).  
 O sistema tem como objetivo **gerenciar os dados do aplicativo** [FarmaSUS](https://github.com/du4ards09/FarmaSUS-Mobile), que exibe as UBSs (Unidades Básicas de Saúde) mais próximas com os medicamentos disponíveis.
@@ -100,38 +100,18 @@ O sistema utiliza dois bancos de dados distintos em MySQL:
   <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0059.jpg" height="180" />
   <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0061.jpg" height="180" />
   <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0063.jpg" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  <img src="" height="180" />
-  
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0064.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0066.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0067.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0068.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0069.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0071.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0070.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0072.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0073.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0074.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0075.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0076.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0077.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Farmacia/IMG-20250704-WA0079.jpg" height="180" />
 </p>
-
-## 📬 Contato
-
-Caso tenha dúvidas ou sugestões, entre em contato com a equipe:  
-📧 `contato@glow.com` (substituir pelo real, se desejar)
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais informações.
