@@ -67,17 +67,44 @@ O sistema utiliza dois bancos de dados distintos em MySQL:
 ### 🟦 AdmGeral (Administração Geral)
 
 <p align="center">
-  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0002.jpg height="180" />
-  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0003.jpg height="180" />
-  <img src="./imagens/admin3.png" height="180" />
-  <br>
-  <img src="./imagens/admin4.png" height="180" />
-  <img src="./imagens/admin5.png" height="180" />
-  <img src="./imagens/admin6.png" height="180" />
-  <br>
-  <img src="./imagens/admin7.png" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0002.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0003.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Imagem%20do%20WhatsApp%20de%202025-07-04%20%C3%A0(s)%2000.47.22_b3f5edb5.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/Imagem%20do%20WhatsApp%20de%202025-07-04%20%C3%A0(s)%2000.47.42_166cd5fa.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0004.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0005.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0006.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0021.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0022.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0023.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0027.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0031.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0033.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0034.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0038.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0041.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0042.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0043.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0047.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0050.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0051.jpg" height="180" />
+  <img src="https://github.com/du4ards09/FarmaSUS-Desktop/blob/main/Imagens/IMG-20250704-WA0055.jpg" height="180" />
 </p>
 ---
+
+### 🟩 AdmFarmácia (Administração das Farmácias)
+
+<p align="center">
+  <img src="./imagens/admin8.png" height="180" />
+  <img src="./imagens/admin9.png" height="180" />
+  <img src="./imagens/admin10.png" height="180" />
+  <br>
+  <img src="./imagens/admin11.png" height="180" />
+  <img src="./imagens/admin12.png" height="180" />
+  <img src="./imagens/admin13.png" height="180" />
+  <br>
+  <img src="./imagens/admin14.png" height="180" />
+</p>
 
 ## 📬 Contato
 
